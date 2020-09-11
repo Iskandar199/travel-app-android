@@ -3,7 +3,7 @@
 *.iml
 
 # Gradle
-.gradle/
+.gradle/fgjtju
 build/
 
 # Local configuration file (sdk path, etc)
